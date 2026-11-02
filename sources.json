@@ -1,6 +1,13 @@
 {
   "sources": [
     {
+      "id": "ani.saikou.neo.extension.anikoto",
+      "name": "Anikoto",
+      "version": "0.1.0",
+      "api": 2,
+      "apk": "https://github.com/neo-sources/releases/releases/download/67f981a64779-v0.1.0/67f981a64779.apk"
+    },
+    {
       "id": "ani.saikou.neo.extension.gotaku",
       "name": "Gotaku",
       "version": "0.1.0",
