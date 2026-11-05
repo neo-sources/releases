@@ -10,9 +10,9 @@
     {
       "id": "ani.saikou.neo.extension.animepahe",
       "name": "AnimePahe",
-      "version": "0.1.0",
-      "api": 2,
-      "apk": "https://github.com/neo-sources/releases/releases/download/a46f3ea9470e-v0.1.0/a46f3ea9470e.apk"
+      "version": "0.2.0",
+      "api": 4,
+      "apk": "https://github.com/neo-sources/releases/releases/download/a46f3ea9470e-v0.2.0/a46f3ea9470e.apk"
     },
     {
       "id": "ani.saikou.neo.extension.gotaku",
